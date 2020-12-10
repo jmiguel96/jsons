@@ -1,5 +1,10 @@
 [
 		{
+		"name" : "Destroyer",
+		"rankpos" : "8",
+		"points" : "-10"
+		}
+		{
 		"name" : "Raul",
 		"rankpos" : "3",
 		"points" : "1000"
@@ -7,12 +12,12 @@
 		{
 		"name" : "Chuck Norris",
 		"rankpos" : "1",
-		"points" : "999999999"
+		"points" : "999999"
 		},
 		{
 		"name" : "Jhon Wick",
 		"rankpos" : "2",
-		"points" : "999999998"
+		"points" : "99999"
 		},
 		{
 		"name" : "Andres",
