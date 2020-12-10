@@ -1,42 +1,37 @@
 [
 		{
 		"name" : "Raul",
-		"id" : "2",
+		"rankpos" : "3",
 		"points" : "1000"
 		},
 		{
 		"name" : "Chuck Norris",
-		"id" : "0",
+		"rankpos" : "1",
 		"points" : "999999999"
 		},
 		{
 		"name" : "Jhon Wick",
-		"id" : "1",
+		"rankpos" : "2",
 		"points" : "999999998"
 		},
 		{
 		"name" : "Andres",
-		"id" : "3",
+		"rankpos" : "4",
 		"points" : "575"
 		},
 		{
-		"name" : "Javier",
-		"id" : "4",
-		"points" : "37"
-		},
-		{
 		"name" : "Alvaro",
-		"id" : "5",
+		"rankpos" : "5",
 		"points" : "201"
 		},
 		{
 		"name" : "Alejandro",
-		"id" : "6",
-		"points" : "3842"
+		"rankpos" : "6",
+		"points" : "120"
 		},
 		{
 		"name" : "Nacho",
-		"id" : "7",
-		"points" : "1256"
+		"rankpos" : "7",
+		"points" : "80"
 		}
 ]
