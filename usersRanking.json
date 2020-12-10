@@ -1,0 +1,42 @@
+[
+		{
+		"name" : "Raul",
+		"id" : "2",
+		"points" : "1000"
+		},
+		{
+		"name" : "Chuck Norris",
+		"id" : "0",
+		"points" : "999999999"
+		},
+		{
+		"name" : "Jhon Wick",
+		"id" : "1",
+		"points" : "999999998"
+		},
+		{
+		"name" : "Andres",
+		"id" : "3",
+		"points" : "575"
+		},
+		{
+		"name" : "Javier",
+		"id" : "4",
+		"points" : "37"
+		},
+		{
+		"name" : "Alvaro",
+		"id" : "5",
+		"points" : "201"
+		},
+		{
+		"name" : "Alejandro",
+		"id" : "6",
+		"points" : "3842"
+		},
+		{
+		"name" : "Nacho",
+		"id" : "7",
+		"points" : "1256"
+		}
+]
